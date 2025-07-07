@@ -1,4 +1,6 @@
-# AleydisDamian-Licencias-github [Actividad 07.07.25.pdf](https://github.com/user-attachments/files/21106656/Actividad.07.07.25.pdf)
+# AleydisDamian-Licencias-github 
+
+[Actividad 07.07.25.pdf](https://github.com/user-attachments/files/21106656/Actividad.07.07.25.pdf)
 
 1. Apache License 2.0 
 Para qué sirve: Permite usar, modificar, distribuir y sublicenciar software con una cláusula de 
